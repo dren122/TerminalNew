@@ -10,20 +10,20 @@ WINIT_X11_SCALE_FACTOR = "1.0"
 [font]
 size = 18.0
 
-[font.bold]
-family = "JetBrains Mono Nerd Font"
-style = "Bold"
+[font.normal]
+family = "ProggyClean Nerd Font"
+style = "Regular"
 
-[font.bold_italic]
-family = "JetBrains Mono Nerd Font"
-style = "Bold Italic"
+[font.bold]
+family = "ProggyClean Nerd Font"
+style = "Regular"
 
 [font.italic]
-family = "JetBrains Mono Nerd Font"
-style = "Italic"
+family = "ProggyClean Nerd Font"
+style = "Regular"
 
-[font.normal]
-family = "JetBrains Mono Nerd Font"
+[font.bold_italic]
+family = "ProggyClean Nerd Font"
 style = "Regular"
 
 # [font.offset]
